@@ -1,0 +1,14 @@
+*** computervision.serice ***
+[Unit]
+Description=ComputerVision
+After= muti-user.target
+
+[Service]
+Type=simple
+ExecStart=C:\Users\Administrator\Documents\GitHub\cv_midterm_submit\cv_part2.py
+User=Administrator
+WorkingDirectory=C:\Users\Administrator\Documents\GitHub\cv_midterm_submit
+Restart=on-failure
+
+[Install]
+WantedBy=multi-user.target
