@@ -6,3 +6,5 @@ In these tasks, I need to track the blue panels without red board.
 I create a function named is_blue to finish this task. In this function, it will decide the scoreboard is blue or not.
 I also need to show the relative coordinates of the blue board.
 I transform the origin from left uppor corner to the center, and show the new coordinate on the screen.
+
+![alt text](/Users/xieshangyu/Documents/GitHub/cv_midterm_submit/screenshot folder/211668918971_.pic.jpg)
